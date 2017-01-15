@@ -1,0 +1,19 @@
+				
+					<%--
+					<script language="javascript">
+						var del = document.getElementById("del");
+						var back = document.getElementById("back");
+						var conf = document.getElementById("conf");
+							
+						conf.onclick=function(){
+							del.href = "delete_car.jsp?pid=<%=pro.getPid()%>";
+							back.href = "product.jsp" ;
+						}
+						function changeColor(obj,color){
+							obj.bgColor = color ;
+						}	
+						function gocheck(){
+							window.location = "product_order_list.jsp" ;
+						}
+					</script>
+					 --%>
